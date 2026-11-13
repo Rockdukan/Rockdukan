@@ -1,16 +1,16 @@
-## Hi there 👋
+DevOps-инженер с бэкграундом в системном администрировании Linux, сетях и Python-разработке.
 
-<!--
-**Rockdukan/Rockdukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Основной стек
 
-Here are some ideas to get you started:
+Linux • Docker • Kubernetes • Helm • GitLab CI/CD
+Argo CD • Ansible • Terraform
+Prometheus • Grafana • Loki
+Python • Django • FastAPI
+systemd • Bash • Nginx • PostgreSQL • fail2ban • UFW
+TCP/IP • DNS • HTTP/HTTPS • TLS • NAT • iptables/nftables
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+- DevOps Kubernetes / GitOps Lab
+- Python backend проекты
+- Linux / Docker automation
